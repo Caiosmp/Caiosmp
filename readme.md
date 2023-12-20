@@ -42,7 +42,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://github.com/Caiosmp/Caiosmp/blob/main/how-to-start.gif?raw=true" alt="Coding gif" />
   
  ✌️ &emsp; A systems development Brazilian student <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
