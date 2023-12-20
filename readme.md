@@ -22,12 +22,11 @@
 </p>
 
 <p align="center">
- <a href="#" target="blank">
- </a>
+ 
  <a href="www.linkedin.com/in/caio-sampaio-tx10" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="caio"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="caio" />
  </a>
-<a href=<a href = "caiosampaio.044@gmail.com" target="_blank">
+<a href="caiosampaio.044@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="caio" />
  </a> 
  <a href="https://www.instagram.com/caioo_smp/" target="_blank">
