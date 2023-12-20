@@ -42,7 +42,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="mr-robot-elliot-alderson (1).gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://storage.googleapis.com/duckly-blog/2021/09/how-to-start.gif" alt="Coding gif" />
   
  ✌️ &emsp; A systems development Brazilian student <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
@@ -62,7 +62,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
