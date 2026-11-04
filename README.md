@@ -6,7 +6,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/caio-sampaio-tx10"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=8ED7CA" /></a>
+<a href="https://www.linkedin.com/in/caioosampaio"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=8ED7CA" /></a>
 <a href="mailto:caiosampaio.044@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&logo=gmail&logoColor=8ED7CA" /></a>
 <a href="https://www.instagram.com/caioo_smp/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-161B22?style=for-the-badge&logo=instagram&logoColor=8ED7CA" /></a>
 
@@ -24,7 +24,7 @@ Já desenvolvi **bots para Discord**, sistemas de cadastro e **automações que 
 
 ## Projetos
 
-<a href="https://www.linkedin.com/in/caio-sampaio-tx10">
+<a href="https://www.linkedin.com/in/caioosampaio">
   <img src="./assets/marketplace-v2.svg" width="100%" alt="Marketplace: plataforma de e-commerce multi-tenant em NestJS, Next.js, React, TypeScript, Prisma e PostgreSQL. Repositório privado; código e demonstração sob pedido." />
 </a>
 
