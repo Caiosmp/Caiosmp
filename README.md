@@ -84,8 +84,6 @@ Já desenvolvi **bots para Discord**, sistemas de cadastro e **automações que 
 <sub>Atualizado automaticamente a partir da minha atividade no GitHub.</sub>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Calendário 3D de contribuições no GitHub" />
-  <br /><br />
   <img width="49%" alt="Estatísticas do GitHub" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Caiosmp&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8ED7CA&text_color=C9D1D9&icon_color=F2C46D" />
   <img width="49%" alt="Linguagens mais usadas" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Caiosmp&locale=pt-br&layout=compact&langs_count=6&hide=scss,css,html&exclude_repo=DucatiSite-Prova,markdown-badges,readme-templates,Caiosmp&hide_border=true&bg_color=0D1117&title_color=8ED7CA&text_color=C9D1D9" />
   <br /><br />
