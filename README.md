@@ -25,7 +25,7 @@ Já desenvolvi **bots para Discord**, sistemas de cadastro e **automações que 
 ## Projetos
 
 <a href="https://www.linkedin.com/in/caio-sampaio-tx10">
-  <img src="./assets/marketplace.svg" width="100%" alt="Marketplace: plataforma de e-commerce multi-tenant em NestJS, Next.js, React, TypeScript, Prisma e PostgreSQL. Repositório privado; código e demonstração sob pedido." />
+  <img src="./assets/marketplace-v2.svg" width="100%" alt="Marketplace: plataforma de e-commerce multi-tenant em NestJS, Next.js, React, TypeScript, Prisma e PostgreSQL. Repositório privado; código e demonstração sob pedido." />
 </a>
 
 <table>
