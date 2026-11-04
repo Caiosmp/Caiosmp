@@ -87,7 +87,7 @@ Já desenvolvi **bots para Discord**, sistemas de cadastro e **automações que 
   <img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="Calendário 3D de contribuições no GitHub" />
   <br /><br />
   <img width="49%" alt="Estatísticas do GitHub" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Caiosmp&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&hide=stars&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8ED7CA&text_color=C9D1D9&icon_color=F2C46D" />
-  <img width="49%" alt="Linguagens mais usadas" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Caiosmp&locale=pt-br&layout=compact&langs_count=6&hide=scss&exclude_repo=DucatiSite-Prova,markdown-badges,readme-templates,Caiosmp&hide_border=true&bg_color=0D1117&title_color=8ED7CA&text_color=C9D1D9" />
+  <img width="49%" alt="Linguagens mais usadas" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Caiosmp&locale=pt-br&layout=compact&langs_count=6&hide=scss,css,html&exclude_repo=DucatiSite-Prova,markdown-badges,readme-templates,Caiosmp&hide_border=true&bg_color=0D1117&title_color=8ED7CA&text_color=C9D1D9" />
   <br /><br />
   <img alt="Sequência de contribuições" src="https://streak-stats.demolab.com?user=Caiosmp&locale=pt_BR&hide_border=true&background=0D1117&ring=8ED7CA&fire=F2C46D&currStreakNum=F3F6F8&sideNums=F3F6F8&currStreakLabel=8ED7CA&sideLabels=9CAAB4&dates=6E7681&stroke=30363D" />
 </div>
