@@ -25,10 +25,63 @@ Já desenvolvi **bots para Discord**, sistemas de cadastro e **automações que 
 ## Projetos
 
 <a href="https://www.linkedin.com/in/caio-sampaio-tx10">
-  <img src="./assets/marketplace.svg" width="100%" alt="Marketplace — projeto principal, em repositório privado. Código e demonstração apresentados sob pedido." />
+  <img src="./assets/marketplace.svg" width="100%" alt="Marketplace: plataforma de e-commerce multi-tenant em NestJS, Next.js, React, TypeScript, Prisma e PostgreSQL. Repositório privado; código e demonstração sob pedido." />
 </a>
 
-<br /><br />
+<table>
+  <tr>
+    <th width="33%" align="left">Multi-tenant</th>
+    <th width="33%" align="left">Segurança</th>
+    <th width="34%" align="left">Pagamentos e operação</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub>
+      Cada loja com catálogo, equipe, clientes e pagamentos isolados<br /><br />
+      Subdomínio próprio e domínio personalizado com verificação por TXT e HTTPS automático<br /><br />
+      Nome, cores, domínio e produtos são configuração, não código
+      </sub>
+    </td>
+    <td valign="top">
+      <sub>
+      Refresh token rotativo com detecção de reuso<br /><br />
+      2FA por e-mail com limite de tentativas e confirmação de senha em ações sensíveis<br /><br />
+      Cargos OWNER, MANAGER e STAFF, exceções por pessoa e auditoria do painel<br /><br />
+      CPF nunca salvo em texto puro
+      </sub>
+    </td>
+    <td valign="top">
+      <sub>
+      Pix via Mercado Pago e cartão via Stripe Connect<br /><br />
+      Webhooks com validação de assinatura e idempotência<br /><br />
+      Reembolso total ou parcial, expiração de pedidos e nota fiscal via NFe.io<br /><br />
+      Importação por CSV, entrega de produtos digitais e backup com dados mascarados
+      </sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Decisões de projeto e stack completa</b></summary>
+  <br />
+
+- **Lojista e comprador são contas completamente separadas.**
+- **Pedidos guardam uma cópia do que foi comprado**, então alterar um produto não muda o histórico de vendas.
+- **Permissões sem cache, por enquanto.**
+- **Proteção em camadas nos endpoints públicos.**
+- **Variáveis de ambiente validadas com Zod** na inicialização da API.
+
+| Camada | Tecnologias |
+|:--|:--|
+| Backend | NestJS 11 · TypeScript · Prisma 7 · PostgreSQL (Supabase) |
+| Frontend | Next.js 16 · React 19 |
+| Infra | Vercel · Supabase Storage · Resend · Cloudflare Turnstile |
+| Pagamentos e fiscal | Mercado Pago · Stripe Connect · NFe.io |
+| Testes | Jest · Vitest |
+
+</details>
+
+<br />
 
 <div align="center">
   <a href="https://github.com/Caiosmp/Validador-de-Comprovante"><img width="49%" alt="Validador de Comprovante" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Caiosmp&repo=Validador-de-Comprovante&locale=pt-br&bg_color=0D1117&title_color=8ED7CA&text_color=9CAAB4&icon_color=F2C46D&border_color=30363D" /></a>
@@ -48,11 +101,11 @@ Já desenvolvi **bots para Discord**, sistemas de cadastro e **automações que 
   <tr>
     <td width="50%" valign="top">
       <sub><b>LINGUAGENS</b></sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=js,java,python,html,css" alt="JavaScript, Java, Python, HTML e CSS" />
+      <img src="https://skillicons.dev/icons?i=ts,js,java,python,html,css" alt="TypeScript, JavaScript, Java, Python, HTML e CSS" />
     </td>
     <td width="50%" valign="top">
       <sub><b>FRAMEWORKS</b></sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=react,nestjs,spring" alt="React, NestJS e Spring Boot" />
+      <img src="https://skillicons.dev/icons?i=nestjs,nextjs,react,spring" alt="NestJS, Next.js, React e Spring Boot" />
     </td>
   </tr>
   <tr>
@@ -62,7 +115,7 @@ Já desenvolvi **bots para Discord**, sistemas de cadastro e **automações que 
     </td>
     <td width="50%" valign="top">
       <sub><b>FERRAMENTAS</b></sub><br /><br />
-      <img src="https://skillicons.dev/icons?i=docker,git,vscode,postman,figma" alt="Docker, Git, VS Code, Postman e Figma" />
+      <img src="https://skillicons.dev/icons?i=docker,vercel,git,vscode,postman,figma,jest,vitest&perline=8" alt="Docker, Vercel, Git, VS Code, Postman, Figma, Jest e Vitest" />
     </td>
   </tr>
   <tr>
